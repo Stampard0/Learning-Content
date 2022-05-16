@@ -1,0 +1,4 @@
+https://www.w3schools.com/python/python_while_loops.asp
+https://www.w3schools.com/python/python_for_loops.asp
+
+https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops

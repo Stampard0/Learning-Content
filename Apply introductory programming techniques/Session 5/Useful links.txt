@@ -1,0 +1,3 @@
+https://www.w3schools.com/python/python_conditions.asp
+
+https://docs.python.org/3/reference/compound_stmts.html

@@ -1,0 +1,3 @@
+https://www.w3schools.com/python/python_for_loops.asp
+
+https://docs.python.org/3/tutorial/datastructures.html
