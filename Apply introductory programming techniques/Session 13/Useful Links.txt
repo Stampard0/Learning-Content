@@ -1,0 +1,3 @@
+https://problemsolvingwithpython.com/08-If-Else-Try-Except/08.06-Flowcharts/
+https://www.programiz.com/article/flowchart-programming
+https://youtu.be/yzQq0THA_00

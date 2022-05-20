@@ -1,0 +1,4 @@
+https://www.w3schools.com/python/python_file_handling.asp
+https://www.w3schools.com/python/python_file_write.asp
+
+https://docs.python.org/3/tutorial/inputoutput.html

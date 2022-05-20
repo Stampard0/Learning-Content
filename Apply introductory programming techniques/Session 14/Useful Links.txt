@@ -1,0 +1,4 @@
+https://www.w3schools.com/python/python_functions.asp
+https://www.w3schools.com/python/python_ref_functions.asp
+
+https://docs.python.org/3/library/functions.html

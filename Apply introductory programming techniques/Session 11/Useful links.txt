@@ -1,0 +1,4 @@
+https://www.w3schools.com/python/gloss_python_error_handling.asp
+https://www.w3schools.com/python/python_ref_exceptions.asp
+
+https://docs.python.org/3/tutorial/errors.html
