@@ -1,0 +1,14 @@
+Additional Resources - Cyber Security Standards
+https://securitybrief.com.au/story/breaking-down-asds-top-four-strategies-mitigate-cybersecurity-incidents
+https://asic.gov.au/regulatory-resources/digital-transformation/cyber-resilience/resources-on-cyber-resilience/
+https://www.oaic.gov.au/privacy/guidance-and-advice/guide-to-securing-personal-information
+https://www.pcisecuritystandards.org/document_library
+https://www.itgovernance.co.uk/iso27000-family
+
+Additional Resources - Physical Controls
+http://www.youtube.com/watch?v=TQoKFovvigI
+http://www.youtube.com/watch?v=0uTsNMdLEi4
+
+Additional Resources - Detective Controles
+http://www.youtube.com/watch?v=yxtI4GlWNjQ
+http://www.youtube.com/watch?v=7DRHt8LJN_g
