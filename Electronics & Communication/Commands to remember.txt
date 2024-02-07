@@ -1,0 +1,5 @@
+enable
+
+erase startup-config
+
+reload
