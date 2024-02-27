@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="session.xsl" type="text/xsl"?>
+<catalog>
+	<book>
+		<title>Practical Electronics</title>
+		<author>Paul Someone</author>
+		<pubdate>2000</pubdate>
+		<publisher>MC Someone</publisher>
+		<isbn>0-05-135687-3</isbn>
+	</book>
+	<book>
+		<title>PS GDSF</title>
+		<author>KARL</author>
+		<pubdate>2000</pubdate>
+		<publisher>MC HELLO</publisher>
+		<isbn>0-05-135687-3</isbn>
+	</book>
+</catalog>
